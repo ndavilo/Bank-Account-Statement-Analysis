@@ -1,7 +1,5 @@
 import openpyxl
 from openpyxl import load_workbook
-from openpyxl.styles import Font
-import string
 debit_row = 0
 debit_column = 0
 credit_row = 0
